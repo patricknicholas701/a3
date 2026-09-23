@@ -1,0 +1,207 @@
+{
+  "domain": "bolerojacketing",
+  "niche": "Haute Bolero Jacketing & Bespoke Outerwear",
+  "design_concept": "Urban High-Contrast & Modernist Monochrome",
+  "archetype_id": "urban_high_contrast",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "bolerojacketing_asset_10.jpg",
+      "size_kb": 26.96,
+      "md5": "45479587c349973442b1b82723ccee75",
+      "description": "1895 man s riding jacket henry poo",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "bolerojacketing_asset_11.jpg",
+      "size_kb": 49.07,
+      "md5": "73d26f2651f92514e8b9135f21bc621b",
+      "description": "2012 13 in progress jacket and vest",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "bolerojacketing_asset_12.jpg",
+      "size_kb": 155.0,
+      "md5": "21b965f0176af736de087ce95a8dbf22",
+      "description": "charvet place vend me sixth floor 02",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "bolerojacketing_asset_13.jpg",
+      "size_kb": 149.15,
+      "md5": "51473f13a00bd5370b9888bbc56dee15",
+      "description": "charvet place vend me sixth floor 03",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "bolerojacketing_asset_14.jpg",
+      "size_kb": 96.74,
+      "md5": "581bacd33d0d267afe5cf1afd70fda0f",
+      "description": "charvet place vend me sixth floor 04",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "bolerojacketing_asset_15.jpg",
+      "size_kb": 80.58,
+      "md5": "f9bd8e659a670a7ba28efadd410241d2",
+      "description": "coat evening man s am 1996.220.1",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "bolerojacketing_asset_16.jpg",
+      "size_kb": 44.18,
+      "md5": "f05c02877beea7930a39a5163809e003",
+      "description": "coat evening man s am 1996.220.1",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "bolerojacketing_asset_17.jpg",
+      "size_kb": 103.99,
+      "md5": "36fc2b9cc3cf2cdd0312309e73e84116",
+      "description": "coat evening man s am 1996.220.1",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "bolerojacketing_asset_18.jpg",
+      "size_kb": 74.7,
+      "md5": "f7b654c7c404289c10657943723ce36b",
+      "description": "coat evening man s am 1996.220.1",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "bolerojacketing_asset_19.jpg",
+      "size_kb": 91.9,
+      "md5": "6e4c411d4fa91b4d930a82e776d7ad12",
+      "description": "coat evening man s am 1996.220.1",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "bolerojacketing_asset_20.jpg",
+      "size_kb": 171.09,
+      "md5": "7d7ef5745723cd5311a0808a183650b4",
+      "description": "coat evening man s am 1996.220.1",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "bolerojacketing_asset_21.jpg",
+      "size_kb": 115.32,
+      "md5": "8aa203a7369c713d6205eb482b8ad240",
+      "description": "jacket am 1984.142 2",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "bolerojacketing_asset_22.jpg",
+      "size_kb": 201.06,
+      "md5": "4ea70abc8b22de0f9f4e95b35184f558",
+      "description": "jacket am 1984.142 3",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "bolerojacketing_asset_23.jpg",
+      "size_kb": 172.2,
+      "md5": "a51264c6cee1bbd693ab49d07ecc292d",
+      "description": "jacket am 1984.142 4",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "bolerojacketing_asset_24.jpg",
+      "size_kb": 95.81,
+      "md5": "2c16589b99827ad486986a49fd8e9c81",
+      "description": "jacket am 1984.142 5",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "bolerojacketing_asset_25.jpg",
+      "size_kb": 74.96,
+      "md5": "418d34a5db3630d72c1ff73f54fde450",
+      "description": "jacket am 2001.42.6 1",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "bolerojacketing_asset_26.jpg",
+      "size_kb": 60.86,
+      "md5": "4bc0c5beec83a3e57ea46a1e0cc07fb6",
+      "description": "jacket am 2001.42.6 2",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "bolerojacketing_asset_27.jpg",
+      "size_kb": 244.06,
+      "md5": "1284a96ef5042e2a2319448496f1e1f5",
+      "description": "jacket am 2001.42.6 3",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "bolerojacketing_asset_28.jpg",
+      "size_kb": 194.01,
+      "md5": "d999c8882af82587e232edbc4571a72d",
+      "description": "jacket am 2001.42.6 4",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "bolerojacketing_asset_29.jpg",
+      "size_kb": 201.46,
+      "md5": "d8f402f89456fb0c5265bd9a62883ac6",
+      "description": "jacket am 2001.42.6 5",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://bolerojacketing.com/sitemap.xml",
+    "robots": "https://bolerojacketing.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
